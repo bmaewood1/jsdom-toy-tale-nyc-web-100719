@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": "8"
     },
     {
       "id": 2,
@@ -47,6 +47,48 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "bailey",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_gj_pYm0-FMeVl7FxDcg-ceIcLKy-0fI4a7AdwuGuxfXATeST4eLmL1QfuM4FoAJd4DMoqLAZPv-6jl8WxO-caMgHBz5CwfUkd9oFvHs2dqlqGN69gZ4mVA&usqp=CAc",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "ken",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_gj_pYm0-FMeVl7FxDcg-ceIcLKy-0fI4a7AdwuGuxfXATeST4eLmL1QfuM4FoAJd4DMoqLAZPv-6jl8WxO-caMgHBz5CwfUkd9oFvHs2dqlqGN69gZ4mVA&usqp=CAc",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "bailey",
+      "image": "ex",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "bailey1",
+      "image": "ex",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "chett",
+      "image": "url",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "chett2",
+      "image": "url",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "chett3",
+      "image": "url",
+      "likes": 0,
+      "id": 15
     }
   ]
 }
