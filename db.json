@@ -10,13 +10,13 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": "9"
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": "5"
     },
     {
       "id": 4,
@@ -46,12 +46,12 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": "4"
     },
     {
       "name": "bailey",
       "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_gj_pYm0-FMeVl7FxDcg-ceIcLKy-0fI4a7AdwuGuxfXATeST4eLmL1QfuM4FoAJd4DMoqLAZPv-6jl8WxO-caMgHBz5CwfUkd9oFvHs2dqlqGN69gZ4mVA&usqp=CAc",
-      "likes": 0,
+      "likes": "2",
       "id": 9
     },
     {
@@ -89,6 +89,12 @@
       "image": "url",
       "likes": 0,
       "id": 15
+    },
+    {
+      "name": "bailey",
+      "image": "url",
+      "likes": 0,
+      "id": 16
     }
   ]
 }
